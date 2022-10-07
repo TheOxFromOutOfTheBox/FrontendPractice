@@ -24,8 +24,8 @@ li {
 
 li a{
     padding: 10px;
-    border: 1px solid black;
+    border: 1px solid #483248;
 }
 .nav{
-    background-color: aqua;
+    background-color: #E6E6FA;
 }
